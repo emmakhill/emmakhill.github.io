@@ -1,0 +1,22 @@
+---
+title: "Emma Hill"
+image: "PhotoCopy.JPG"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/emma-katherine-hill/"
+  - label: Email
+    url: "mailto:emmakatherinehill@outlook.com"
+  - label: Resume
+    url: "Ux Researcher Resume(Jan.'23).html"
+output:
+  postcards::trestles
+---
+
+## Data Science Portfolio
+
+1. [**Adopt Don’t Shop: The State of Adoptable Dogs In The U.S.**](Emma_Project1 copy.html) | February 2022
+
+2. [**Our Food Carbon Footprint: Environmental Support for Veganism, Vegetarism, and a Lean-Meat Diet**](Project_2_Food copy.html) | March 2022
+
+2. [**Predicting the Sole Survivor: Winners vs. Losers**](Final_Project4 copy.html) | May 2022
+
